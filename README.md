@@ -1,5 +1,3 @@
-# Bharat Produce Connect 2.0
-
 This repo is made for purely experimental purpose only.
 
 # Bharat-Produce-Connect
